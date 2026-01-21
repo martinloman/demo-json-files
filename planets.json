@@ -29,6 +29,24 @@
       "name": "Jupiter",
       "distance_from_sun": "778.5 million km",
       "has_rings": true
+    },
+    {
+      "id": 6,
+      "name": "Saturn",
+      "distance_from_sun": "1.4 billion km",
+      "has_rings": true
+    },
+    {
+      "id": 7,
+      "name": "Uranus",
+      "distance_from_sun": "2.9 billion km",
+      "has_rings": true
+    },
+    {
+      "id": 8,
+      "name": "Neptune",
+      "distance_from_sun": "4.5 billion km",
+      "has_rings": true
     }
   ]
 }
