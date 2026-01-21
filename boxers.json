@@ -1,0 +1,69 @@
+{
+  "ranking": [
+    {
+      "rank": 1,
+      "name": "Muhammad Ali",
+      "nickname": "The Greatest",
+      "country": "USA",
+      "weight_class": "Heavyweight",
+      "career_record": "56–5",
+      "overall": 99,
+      "power": 95,
+      "speed": 97,
+      "defense": 96,
+      "technique": 98
+    },
+    {
+      "rank": 2,
+      "name": "Sugar Ray Robinson",
+      "nickname": "",
+      "country": "USA",
+      "weight_class": "Welterweight / Middleweight",
+      "career_record": "173–19–6",
+      "overall": 98,
+      "power": 96,
+      "speed": 98,
+      "defense": 95,
+      "technique": 99
+    },
+    {
+      "rank": 3,
+      "name": "Mike Tyson",
+      "nickname": "Iron Mike",
+      "country": "USA",
+      "weight_class": "Heavyweight",
+      "career_record": "50–6",
+      "overall": 96,
+      "power": 100,
+      "speed": 93,
+      "defense": 90,
+      "technique": 92
+    },
+    {
+      "rank": 4,
+      "name": "Floyd Mayweather Jr.",
+      "nickname": "Money",
+      "country": "USA",
+      "weight_class": "Lightweight / Welterweight",
+      "career_record": "50–0",
+      "overall": 97,
+      "power": 88,
+      "speed": 94,
+      "defense": 100,
+      "technique": 97
+    },
+    {
+      "rank": 5,
+      "name": "Manny Pacquiao",
+      "nickname": "Pac-Man",
+      "country": "Philippines",
+      "weight_class": "Multiple",
+      "career_record": "62–8–2",
+      "overall": 95,
+      "power": 92,
+      "speed": 96,
+      "defense": 91,
+      "technique": 94
+    }
+  ]
+}

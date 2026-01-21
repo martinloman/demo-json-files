@@ -1,0 +1,34 @@
+{
+  "planets": [
+    {
+      "id": 1,
+      "name": "Mercury",
+      "distance_from_sun": "57.9 million km",
+      "has_rings": false
+    },
+    {
+      "id": 2,
+      "name": "Venus",
+      "distance_from_sun": "108.2 million km",
+      "has_rings": false
+    },
+    {
+      "id": 3,
+      "name": "Earth",
+      "distance_from_sun": "149.6 million km",
+      "has_rings": false
+    },
+    {
+      "id": 4,
+      "name": "Mars",
+      "distance_from_sun": "227.9 million km",
+      "has_rings": false
+    },
+    {
+      "id": 5,
+      "name": "Jupiter",
+      "distance_from_sun": "778.5 million km",
+      "has_rings": true
+    }
+  ]
+}

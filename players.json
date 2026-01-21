@@ -1,0 +1,56 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "country": "Argentina",
+      "position": "RW",
+      "overall": 90,
+      "pace": 85,
+      "shooting": 92,
+      "passing": 91,
+      "dribbling": 95,
+      "defending": 38,
+      "physical": 65
+    },
+    {
+      "id": 2,
+      "name": "Cristiano Ronaldo",
+      "country": "Portugal",
+      "position": "ST",
+      "overall": 88,
+      "pace": 81,
+      "shooting": 93,
+      "passing": 82,
+      "dribbling": 85,
+      "defending": 35,
+      "physical": 77
+    },
+    {
+      "id": 3,
+      "name": "Kevin De Bruyne",
+      "country": "Belgium",
+      "position": "CM",
+      "overall": 91,
+      "pace": 74,
+      "shooting": 86,
+      "passing": 93,
+      "dribbling": 88,
+      "defending": 64,
+      "physical": 78
+    },
+    {
+      "id": 4,
+      "name": "Kylian Mbappé",
+      "country": "France",
+      "position": "ST",
+      "overall": 91,
+      "pace": 97,
+      "shooting": 89,
+      "passing": 80,
+      "dribbling": 92,
+      "defending": 39,
+      "physical": 77
+    }
+  ]
+}

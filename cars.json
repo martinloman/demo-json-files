@@ -1,0 +1,52 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "team": "Red Bull Racing",
+      "driver": "Max Verstappen",
+      "engine": "Honda RBPT",
+      "overall": 95,
+      "top_speed": 98,
+      "acceleration": 97,
+      "handling": 96,
+      "reliability": 94,
+      "aerodynamics": 97
+    },
+    {
+      "id": 2,
+      "team": "Ferrari",
+      "driver": "Charles Leclerc",
+      "engine": "Ferrari",
+      "overall": 92,
+      "top_speed": 96,
+      "acceleration": 94,
+      "handling": 93,
+      "reliability": 88,
+      "aerodynamics": 94
+    },
+    {
+      "id": 3,
+      "team": "Mercedes",
+      "driver": "Lewis Hamilton",
+      "engine": "Mercedes",
+      "overall": 91,
+      "top_speed": 94,
+      "acceleration": 92,
+      "handling": 95,
+      "reliability": 90,
+      "aerodynamics": 93
+    },
+    {
+      "id": 4,
+      "team": "McLaren",
+      "driver": "Lando Norris",
+      "engine": "Mercedes",
+      "overall": 89,
+      "top_speed": 92,
+      "acceleration": 90,
+      "handling": 91,
+      "reliability": 89,
+      "aerodynamics": 90
+    }
+  ]
+}
